@@ -13,8 +13,10 @@ all these above steps give us a basic understanding of data
 
 a)  set a seed (to ensure work reproducibility) and take a random sample of  25 observations and find the mean Glucose and highest Glucose values of this sample and compare these statistics with the population statistics of the same variable. You should use charts for this comparison.
 > Setting a seed value
-> Taking a sample 0f 25 observations
-> plotting 
+> Taking a sample of 25 observations
+> Plotting the comparison of sample and population data on mean and highest of glucose
+![image](https://github.com/chsandeep8/pdsasgmnt3/assets/50614267/b76e5630-7c44-4f9e-b2f5-2356d8ba17eb)
+
 
 b) Find the 98th percentile of BMI of your sample and the population and compare the results using charts.
 
